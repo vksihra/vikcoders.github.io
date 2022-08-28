@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/Vikcoders",
+    "prod_uri": "mysql://root:@localhost/Vikcoders",
+    "fb_url" : "https://facebook.com/Vikcoders",
+    "tw_url" : "https://twitter.com/Vikcoders",
+    "gh_url" : "https://github.com/Vikcoders",
+    "blog_name" : "Vikcoders",
+    "tag_line" : "BE THE CHANGE!!",
+    "gmail-user": "viknit2003@gmail.com",
+    "gmail-password": "Vikas@2003",
+    "about-text" : "Best bloggers exist here.",
+     "no_of_posts": 4,
+    "login_image":"login.jpg",
+    "admin_user":"vikas",
+    "admin_password": "vikas2003",
+    "upload_location" : "C:\\Users\\rahul\\PycharmProjects\\flask - tut\\static"
+
+  }
+}
